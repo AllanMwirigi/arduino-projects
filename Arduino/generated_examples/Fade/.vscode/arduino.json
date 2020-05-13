@@ -1,0 +1,6 @@
+{
+    "sketch": "Fade.ino",
+    "port": "COM4",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
+}
